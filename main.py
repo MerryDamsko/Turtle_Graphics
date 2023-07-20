@@ -12,4 +12,4 @@ for _ in range(15):
 
 
 screen = s
-screen.exitonclick()
+
